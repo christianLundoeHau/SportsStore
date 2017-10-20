@@ -13,6 +13,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SportsStore
 {
+	//Comment from git
+	
     public class Startup
     {
 								IConfigurationRoot Configuration;
