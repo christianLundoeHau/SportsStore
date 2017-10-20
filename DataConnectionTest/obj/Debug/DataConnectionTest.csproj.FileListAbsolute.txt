@@ -1,0 +1,1 @@
+D:\Visual Studio - Projects\Own_Projects\Pro ASP.NEt Core MVC\SportsStore\DataConnectionTest\obj\Debug\DataConnectionTest.csprojResolveAssemblyReference.cache
